@@ -1,16 +1,55 @@
-## Hi there 👋
+Hi, I'm Yoganandha Reddy 👋
 
-<!--
-**yoganandha07/yoganandha07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Engineer | Python | SQL | PySpark | Databricks
 
-Here are some ideas to get you started:
+I'm passionate about building data-driven solutions and learning how to design, develop, and optimize data pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on developing my skills in Data Engineering, working with data processing, database management, distributed computing, and cloud-based data platforms.
+
+🛠️ Technical Skills
+
+Programming
+
+- Python
+- SQL
+- C#
+
+Data Engineering & Processing
+
+- Apache Spark
+- PySpark
+- Databricks
+- Pandas
+- ETL / ELT Concepts
+
+Databases
+
+- SQL Server
+- MySQL
+
+Tools & Technologies
+
+- Git & GitHub
+- Docker
+- Excel / OpenPyXL
+
+📚 Currently Learning
+
+- Data Engineering fundamentals
+- Apache Spark and PySpark
+- Databricks and Lakehouse Architecture
+- Advanced SQL
+- Building scalable ETL pipelines
+- Data orchestration and workflow automation
+
+🎯 My Goal
+
+To become a skilled Data Engineer by continuously learning, building practical projects, solving real-world data problems, and sharing my progress through GitHub.
+
+📂 Projects
+
+My hands-on projects and learning repositories will be linked here as I build them.
+
+---
+
+⭐ Learning continuously. Building consistently. Growing as a Data Engineer.
